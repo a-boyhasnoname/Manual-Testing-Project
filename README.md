@@ -37,7 +37,7 @@ Malformed minimum-order value displayed as `Rs. .00`.
 Terms of Usage contains payment information that appears inconsistent with the current website behavior.
 <img width="1055" height="537" alt="image" src="https://github.com/user-attachments/assets/9f0b67a7-9187-46a9-aee1-9c2988a98f60" />
 
-###BUG-003
+### BUG-003
 Date shown in website inconsistent with current date.
 <img width="1196" height="921" alt="image" src="https://github.com/user-attachments/assets/301eaba2-e158-4884-8d5b-fd6fd27fd058" />
 
